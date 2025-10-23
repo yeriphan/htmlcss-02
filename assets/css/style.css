@@ -530,3 +530,20 @@ a {
     background: var(--primary-color);
 }
 
+/* Feature-bottom */
+.feature-bottom {
+    margin-top: 70px;
+}
+
+.feature-bottom .body {
+    flex-direction: row-reverse;
+}
+
+.feature-bottom .content {
+    width: 49%;
+}
+
+.feature-bottom .images img {
+    width: 470px;
+    height: 440px;
+}
